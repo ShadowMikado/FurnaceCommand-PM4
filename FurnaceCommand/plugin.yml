@@ -1,0 +1,10 @@
+name: FurnaceCommand
+version: 1.0.0
+api: [4.0.0]
+main: ShadowMikado\FurnaceCommand\Main
+author: ShadowMikado
+permissions:
+  furnace.cmd:
+    default: false
+    description: /furnace
+
